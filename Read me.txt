@@ -1,0 +1,58 @@
+*connect database*
+
+-import file in this path :[ownersAssociation\DB] to php my admin to connect database
+
+___________________________________________________________________________________
+
+ *first page* 
+
+
+here you found login page use username & password 
+username:[abdelrahman attia] as user 
+password:[321456]
+
+username:[ahmed mohamed] as admin 
+password:[123456]
+
+to Go To Home Page
+
+and then you can change user to any one from database users Table 
+
+________________________________________________________________________________
+
+*Home Page*
+
+this is interface and welcome page you can see blow Table for users Expenses group by Home Number.
+
+on the top of page you can see navbar [import , export, reports].
+
+___________________________________________________________________________________________________
+
+*import*
+
+if you choose import from navbar 
+you can pay home receivables to you or all ->if your are admin only  
+just choose Home User and kind of pay (month ,emergncy)
+
+____________________________________________________________________________________________________
+
+*export*
+
+if you choose export from navbar
+you will be export home expenses from Home balance 
+
+__________________________________________________________________________________________________
+
+*reports*
+
+if you choose reports from navbar 
+you well get two options :
+1-outstanding balances of home users per year 
+2-expenses report for Home services and 
+3-every user expenses report
+
+________________________________________________________________________________________________
+*logout*
+
+if you choose logout will will never access site without Login authority
+
